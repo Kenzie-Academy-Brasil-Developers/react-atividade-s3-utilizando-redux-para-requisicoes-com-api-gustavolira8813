@@ -1,0 +1,11 @@
+.digimonBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: row-reverse;
+  list-style: none;
+  padding: 0;
+}
+.digimonBox ul {
+  margin: 0;
+}

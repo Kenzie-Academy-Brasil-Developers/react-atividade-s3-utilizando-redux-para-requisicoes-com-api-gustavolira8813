@@ -1,0 +1,29 @@
+.form input {
+  height: 35px;
+  border-radius: 7px;
+  text-shadow: 8px -6px 6px #cc3030;
+  font-size: 16px;
+  box-shadow: 6px -4px 11px 5px crimson;
+  margin: 5px;
+  padding: 5px;
+  font-family: "Orbitron", sans-serif;
+}
+.form button {
+  font-family: "Orbitron", sans-serif;
+  width: 150px;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 5px;
+  color: firebrick;
+  font-size: large;
+  background: radial-gradient(#6e2525, #080000f7);
+}
+.form button:hover {
+  color: #131313;
+  background: radial-gradient(#dc1414, #030303f7);
+}
+.form button:active {
+  color: rgb(223, 35, 35);
+  background: radial-gradient(#e7dddd, #db0f0ff7);
+  box-shadow: 0px 0px 8px 7px;
+}
